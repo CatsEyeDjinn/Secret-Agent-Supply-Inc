@@ -8,8 +8,7 @@ header {
 #banner {
   background-image: url("./images/moto.jpeg");
   background-position: center;
-  background-size: auto;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 25em;
+  height: 40em;
 }
